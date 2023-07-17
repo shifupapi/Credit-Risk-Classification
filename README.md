@@ -44,7 +44,7 @@ Summary
 
 The goal is to recommend that a loan company utilizes the model that minimizes the number of false positives and negatives. You specifically want to focus on the false negatives, because that ultimately would cost the company more money. 
 
-With incorrect predictions we have two issues. 
+With incorrect predictions we have two issues: 
 1. false positives (where users are flagged as risky, but are actually healthy)
 2. false negatives (where users are not flagged as risky but are actually risky)
    both cases have its costs.
